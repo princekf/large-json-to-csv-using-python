@@ -9,7 +9,7 @@ Converting large json file into csv using pandas library of python.
     $ cd large-json-to-csv-using-python
     if linux system
     $ sh build.sh
-### 4. Download the sample json file from [sf-city-lots-json repository](https://github.com/zeMirco/sf-city-lots-json)
+### 3. Download the sample json file from [sf-city-lots-json repository](https://github.com/zeMirco/sf-city-lots-json)
 ### 4. run the program 
     $ python3 json-to-csv.py
 
